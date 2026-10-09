@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/akatsuki-cloud.png" width="150" alt="Akatsuki Cloud" />
-
 # Paulo Afonso
 
 ### Processos • Dados • Automação • Desenvolvimento de Software
