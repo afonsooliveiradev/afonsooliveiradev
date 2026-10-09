@@ -21,20 +21,52 @@ Atuo na interseção entre **processos, dados e tecnologia**. Minha experiência
 
 ---
 
-## 🛠️ Stack principal
+## 🔥 Habilidades e Ferramentas
 
-<div align="center">
+### Linguagens de Programação
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare)
-![Power BI](https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+### Bancos de Dados & Backend
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=111)
+
+### Cloud, DevOps & Entrega
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### Inteligência de Negócios & Visualização
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apache&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
+
+### Bibliotecas & Ferramentas Essenciais
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+### Conceitos & Metodologias
+
+**BPMN** · **PDCA** · **DMAIC** · **Lean Six Sigma** · **KPIs** · **OKRs** · **SLA**  
+**CI/CD** · **Testes Automatizados** · **PWA** · **Segurança por Design** · **LGPD & Consentimento** · **Arquitetura Multiusuário**
 
 ---
 
@@ -47,31 +79,26 @@ SaaS/PWA multiusuário para organização e evolução pessoal e profissional.
 
 **Stack:** React · Vite · Supabase · PostgreSQL · Cloudflare · Vitest
 
-> 🔒 Código-fonte privado por estratégia de produto. Documentação pública em estrutura separada.
+> 🔒 Código-fonte privado por estratégia de produto e proteção de propriedade intelectual.
 
 ### FuelTrack
 Plataforma de inteligência de mercado para o setor de combustíveis.
 
-**Foco:** monitoramento de preços, notícias, indicadores, alertas e apoio à tomada de decisão.
+**Destaques:** dashboard executivo, radar de mercado, notícias, alertas, oportunidades e monitoramento de concorrentes.
+
+**Stack:** TypeScript · Next.js · React · Supabase · Drizzle ORM · Tailwind CSS · Cloudflare Workers
 
 ---
 
 ## 🧠 Experiência que levo para Tech
 
-BPMN · PDCA · DMAIC · KPIs · OKRs · SLA · Governança · Análise de Riscos · SAP · Power BI · PowerApps · WMS · TMS
-
-Essa base me ajuda a pensar tecnologia considerando **processo, usuário, risco, operação e valor de negócio**.
+Experiência prática em **governança, melhoria contínua, análise de riscos, indicadores e operações B2B/B2C**, usando tecnologia para transformar problemas de negócio em soluções mais eficientes e mensuráveis.
 
 ---
 
 ## 📚 Formação
 
-- Ciência da Computação
-- MBA em BI, Big Data e Analytics
-- MBA em Análise e Visualização de Dados
-- Pós-graduação em Gestão de Projetos
-- Bacharelado em Comércio Exterior
-- Yellow Belt — Lean Six Sigma
+**Ciência da Computação** · **BI, Big Data & Analytics** · **Análise e Visualização de Dados** · **Gestão de Projetos** · **Comércio Exterior** · **Yellow Belt**
 
 ---
 
