@@ -13,15 +13,27 @@ Profissional de Processos & Governança em transição para Tecnologia, conectan
 
 ---
 
-## 👨‍💻 Perfil
+## 🚀 Projetos em destaque
 
-Atuo na interseção entre **processos, dados e tecnologia**. Minha experiência em governança, melhoria contínua, indicadores e operações hoje se conecta ao desenvolvimento de software, automação e produtos digitais.
+### Life Evolution Hub
+SaaS/PWA multiusuário para organização e evolução pessoal e profissional.
 
-**Foco atual:** Desenvolvimento de Software · Dados · Automação · Produto
+**Entrega técnica:** autenticação, consentimento e privacidade, finanças, investimentos, PWA, Edge Functions, CI/CD, testes automatizados, arquitetura multiusuário e Coach Engine baseado em evidências.
+
+**Stack:** React · Vite · Supabase · PostgreSQL · Cloudflare · Docker · Vitest · GitHub Actions
+
+> 🔒 Código-fonte privado por estratégia de produto e proteção de propriedade intelectual.
+
+### FuelTrack
+Plataforma de inteligência de mercado para o setor de combustíveis.
+
+**Entrega técnica:** dashboard executivo, radar de mercado, notícias, alertas, oportunidades, monitoramento de concorrentes e arquitetura preparada para Cloudflare Workers.
+
+**Stack:** TypeScript · Next.js · React · Supabase · Drizzle ORM · Tailwind CSS · Cloudflare Workers
 
 ---
 
-## 🔥 Habilidades e Ferramentas
+## 🔥 Tecnologias e Ferramentas com as quais venho trabalhando
 
 ### Linguagens de Programação
 
@@ -36,12 +48,14 @@ Atuo na interseção entre **processos, dados e tecnologia**. Minha experiência
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=111)
 
-### Cloud, DevOps & Entrega
+### Cloud, DevOps & Ambiente de Desenvolvimento
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### Inteligência de Negócios & Visualização
@@ -52,7 +66,7 @@ Atuo na interseção entre **processos, dados e tecnologia**. Minha experiência
 ![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apache&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 
-### Bibliotecas & Ferramentas Essenciais
+### Bibliotecas & Frameworks
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -70,35 +84,15 @@ Atuo na interseção entre **processos, dados e tecnologia**. Minha experiência
 
 ---
 
-## 🚀 Projetos
-
-### Life Evolution Hub
-SaaS/PWA multiusuário para organização e evolução pessoal e profissional.
-
-**Destaques:** autenticação, privacidade, finanças, investimentos, PWA, Edge Functions, CI/CD, testes automatizados e Coach Engine.
-
-**Stack:** React · Vite · Supabase · PostgreSQL · Cloudflare · Vitest
-
-> 🔒 Código-fonte privado por estratégia de produto e proteção de propriedade intelectual.
-
-### FuelTrack
-Plataforma de inteligência de mercado para o setor de combustíveis.
-
-**Destaques:** dashboard executivo, radar de mercado, notícias, alertas, oportunidades e monitoramento de concorrentes.
-
-**Stack:** TypeScript · Next.js · React · Supabase · Drizzle ORM · Tailwind CSS · Cloudflare Workers
-
----
-
 ## 🧠 Experiência que levo para Tech
 
-Experiência prática em **governança, melhoria contínua, análise de riscos, indicadores e operações B2B/B2C**, usando tecnologia para transformar problemas de negócio em soluções mais eficientes e mensuráveis.
+Minha base em **processos, governança, melhoria contínua, análise de riscos, indicadores e operações B2B/B2C** me ajuda a desenvolver soluções considerando não apenas implementação técnica, mas também **arquitetura, risco, operação, experiência do usuário e valor de negócio**.
 
 ---
 
 ## 📚 Formação
 
-**Ciência da Computação** · **BI, Big Data & Analytics** · **Análise e Visualização de Dados** · **Gestão de Projetos** · **Comércio Exterior** · **Yellow Belt**
+**Ciência da Computação** · **BI, Big Data & Analytics** · **Análise e Visualização de Dados** · **Gestão de Projetos** · **Comércio Exterior** · **Yellow Belt — Lean Six Sigma**
 
 ---
 
